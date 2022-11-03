@@ -1,0 +1,3 @@
+Lembrete!
+Para o XML funcionar preciso instalar o xampp para usar o Apache,
+não é requisito no momento mas é bom colocar.
